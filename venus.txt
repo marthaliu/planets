@@ -1,1 +1,2 @@
 Soup is delicious.
+What is the ideal temperature to consume delicous soup?
